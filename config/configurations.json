@@ -1,0 +1,5 @@
+{
+    "mongoose": {
+        "uri-dev": "mongodb://admindemo:cptML8k9@ds032340.mlab.com:32340/zeissdemo"
+    }
+}

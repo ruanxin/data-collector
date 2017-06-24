@@ -1,0 +1,1 @@
+A simple NodeJs Websocket Data collector client.
